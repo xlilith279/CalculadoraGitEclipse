@@ -1,4 +1,3 @@
-import java.sql.SQLIntegrityConstraintViolationException;
 
 public class Calculadora {
 
